@@ -1,0 +1,85 @@
+[33mcommit 41bbaf0670a15dd00034440de90359ad85590c96[m
+Merge: 06edf06 a3fad48
+Author: iceiceice <404637813@qq.com>
+Date:   Fri Dec 2 14:23:45 2016 +0800
+
+    merge with no-ff
+
+[33mcommit a3fad488a2fa021f0ca4e3901c209d8b3df297c8[m
+Author: iceiceice <404637813@qq.com>
+Date:   Fri Dec 2 14:22:54 2016 +0800
+
+    add merge
+
+[33mcommit 06edf06241e9ff1b006c193b547266fdbc3ef8aa[m
+Merge: 6eea254 88819df
+Author: iceiceice <404637813@qq.com>
+Date:   Fri Dec 2 14:14:45 2016 +0800
+
+    conflict fixed
+
+[33mcommit 6eea254d4b28924ca6e12a6e3333c21db0fd83ca[m
+Author: iceiceice <404637813@qq.com>
+Date:   Fri Dec 2 14:09:21 2016 +0800
+
+    &simple
+
+[33mcommit 88819df2b40f97a1a02c6abd74b8f67c7c832a0d[m
+Author: iceiceice <404637813@qq.com>
+Date:   Fri Dec 2 14:06:37 2016 +0800
+
+    AND simple
+
+[33mcommit b951203f937ed46613f870b777d4e2774e4da999[m
+Author: iceiceice <404637813@qq.com>
+Date:   Fri Dec 2 14:00:34 2016 +0800
+
+    branch test
+
+[33mcommit 92b3ff20ba8840e20c9d7bc881dbaa2dfe1b7ba9[m
+Author: iceiceice <404637813@qq.com>
+Date:   Fri Dec 2 11:29:51 2016 +0800
+
+    gaga
+
+[33mcommit 7728e0861baf4afdbc702dda6d8261c54510cc85[m
+Author: iceiceice <404637813@qq.com>
+Date:   Fri Dec 2 10:26:26 2016 +0800
+
+    remove test.txt
+
+[33mcommit 04525abef59f9c2a74cb3b1cc9990ae4f2b6f288[m
+Author: iceiceice <404637813@qq.com>
+Date:   Fri Dec 2 10:21:56 2016 +0800
+
+    add test.txt
+
+[33mcommit a9bedad1cbef9e87535927aa65e27c76a1ce1aa5[m
+Author: iceiceice <404637813@qq.com>
+Date:   Fri Dec 2 09:56:09 2016 +0800
+
+    git tracks changes
+
+[33mcommit 6c3f7c2615b59d66cf32da3224b106aeecb89827[m
+Author: iceiceice <404637813@qq.com>
+Date:   Fri Dec 2 09:49:59 2016 +0800
+
+    understand how stage works
+
+[33mcommit 83fecdb57270bd54421bc62ce7ab366bc18d38ef[m
+Author: iceiceice <404637813@qq.com>
+Date:   Fri Nov 25 09:32:42 2016 +0800
+
+    append GPL
+
+[33mcommit 62ec445b43d6a9e0b4e3d165379dc793effc6695[m
+Author: iceiceice <404637813@qq.com>
+Date:   Fri Nov 25 09:28:39 2016 +0800
+
+    add distributed
+
+[33mcommit 9ef054840a23d125fd4a9f90e66a313ba9547c16[m
+Author: iceiceice <404637813@qq.com>
+Date:   Fri Nov 25 09:14:18 2016 +0800
+
+    wrote a readme1 file
